@@ -2,7 +2,7 @@
 {
     public static void Main()
     {
-        System.Console.WriteLine("Hello,");
-        System.Console.WriteLine("Maria de Oliveira!");
+        System.Console.WriteLine("Pedro Henrique Dumont");
+        System.Console.WriteLine("14/07/2006");
     }
 }
